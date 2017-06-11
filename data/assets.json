@@ -1,0 +1,38 @@
+[
+	{
+		"gtin": "47400656109",
+		"assettype": "image",
+		"name": "Primary Image",
+		"url": "https://cdn.voyager.pgsitecore.com/en-us/-/media/Gillette/Images/Products/Fusion%20ProShield%20Manual%20Razor/01_ProShieldMan_Pack.jpg?w=460&v=1-20170406064"
+	},
+	{
+		"gtin": "47400656109",
+		"assettype": "image",
+		"name": "Secondary Image",
+		"url": "https://cdn.voyager.pgsitecore.com/en-us/-/media/Gillette/Images/Products/Fusion%20ProShield%20Manual%20Razor/02_ProShieldMan_SHIELD.jpg?w=460&v=1-201704060647"
+	},
+	{
+		"gtin": "47400656109",
+		"assettype": "video",
+		"name": "YouTube Video",
+		"url": "https://www.youtube.com/watch?v=dOWjvbGm16M"
+	},
+	{
+		"gtin": "47400656123",
+		"assettype": "image",
+		"name": "Primary Image",
+		"url": "https://cdn.voyager.pgsitecore.com/en-us/-/media/Gillette/Images/Products/Fusion%20ProShield%20Blades/01_ProShieldCrt_Pack.jpg?w=460&v=1-201704060650"
+	},
+	{
+		"gtin": "47400656123",
+		"assettype": "image",
+		"name": "Secondary Image",
+		"url": "https://cdn.voyager.pgsitecore.com/en-us/-/media/Gillette/Images/Products/Fusion%20ProShield%20Blades/02_ProShieldCrt_SHIELD.jpg?w=460&v=1-201704060650"
+	},
+	{
+		"gtin": "47400656123",
+		"assettype": "video",
+		"name": "Product review video on YouTube",
+		"url": "https://www.youtube.com/watch?v=tbyvGlCHeJE"
+	}
+]
